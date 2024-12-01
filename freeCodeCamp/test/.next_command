@@ -47,3 +47,16 @@ ls --color=auto
 cd node_modules
 __vsc_prompt_cmd_original
 ls --color=auto
+ls --color=auto -1
+ls --color=auto -1
+ls --color=auto
+ls --color=auto 1
+ls --color=auto -1
+ls --color=auto -
+ls --color=auto -1
+list -1
+list
+ls --color=auto -1
+ls --color=auto -2
+ls --color=auto -1
+ls --color=auto -l
