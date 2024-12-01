@@ -162,3 +162,4 @@ find
 mkdir client
 __vsc_prompt_cmd_original
 mkdir client/src
+mv index.html client/src
