@@ -146,3 +146,7 @@ ms roboto.font roboto.woff
 mv roboto.font roboto.woff
 __vsc_prompt_cmd_original
 ls --color=auto
+mv lato.font lato.woff
+mv lato.font lato.ttf
+ls --color=auto
+mv lato.woff lato.ttf
