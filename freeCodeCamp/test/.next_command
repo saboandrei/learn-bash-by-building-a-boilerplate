@@ -182,3 +182,17 @@ mkdir images
 __vsc_prompt_cmd_original
 cd images
 touch background.jpg
+cd ../..
+cd ..
+cd client
+cd assets
+cd ../../..
+ls --color=auto
+cd website
+ls --color=auto
+cd client
+ls --color=auto
+cd assets
+ls --color=auto
+cd images
+cd ../../..
