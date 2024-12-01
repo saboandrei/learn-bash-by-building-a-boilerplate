@@ -92,3 +92,4 @@ ls --color=auto
 touch index.js
 mkdir .gitignore
 touch .gitignore
+ls --color=auto
