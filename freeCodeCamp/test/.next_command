@@ -109,3 +109,4 @@ cd website
 ls --color=auto
 cd .
 touch background.jpg
+touch header.png
