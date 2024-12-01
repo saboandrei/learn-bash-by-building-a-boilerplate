@@ -179,3 +179,5 @@ mkdir assets
 __vsc_prompt_cmd_original
 cd assets
 mkdir images
+__vsc_prompt_cmd_original
+cd images
