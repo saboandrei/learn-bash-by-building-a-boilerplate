@@ -93,3 +93,4 @@ touch index.js
 mkdir .gitignore
 touch .gitignore
 ls --color=auto
+ls --color=auto --help
